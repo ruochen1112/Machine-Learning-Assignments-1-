@@ -1,0 +1,99 @@
+type_of_service_request,zip_code,1,2,3
+Sanitation Code Violation,60602.0,26.0,,
+Sanitation Code Violation,60605.0,1213.0,,
+Sanitation Code Violation,60606.0,172.0,,
+Sanitation Code Violation,60607.0,1335.0,,
+Sanitation Code Violation,60608.0,3163.0,,
+Sanitation Code Violation,60609.0,2607.0,,
+Sanitation Code Violation,60610.0,2978.0,,
+Sanitation Code Violation,60611.0,1174.0,,
+Sanitation Code Violation,60612.0,2911.0,,
+Sanitation Code Violation,60613.0,1716.0,,
+Sanitation Code Violation,60614.0,2478.0,,
+Sanitation Code Violation,60615.0,3409.0,,
+Sanitation Code Violation,60616.0,3328.0,,
+Sanitation Code Violation,60617.0,3655.0,,
+Sanitation Code Violation,60618.0,1842.0,,
+Sanitation Code Violation,60619.0,4521.0,,
+Sanitation Code Violation,60620.0,3801.0,,
+Sanitation Code Violation,60621.0,2915.0,,
+Sanitation Code Violation,60622.0,1547.0,,
+Sanitation Code Violation,60623.0,3683.0,,
+Sanitation Code Violation,60624.0,3142.0,,
+Sanitation Code Violation,60625.0,2278.0,,
+Sanitation Code Violation,60626.0,2965.0,,
+Sanitation Code Violation,60628.0,3352.0,,
+Sanitation Code Violation,60629.0,2848.0,,
+Sanitation Code Violation,60630.0,1123.0,,
+Sanitation Code Violation,60631.0,661.0,,
+Sanitation Code Violation,60632.0,1710.0,,
+Sanitation Code Violation,60633.0,501.0,,
+Sanitation Code Violation,60634.0,1522.0,,
+Sanitation Code Violation,60636.0,1927.0,,
+Sanitation Code Violation,60637.0,4364.0,,
+Sanitation Code Violation,60638.0,718.0,,
+Sanitation Code Violation,60639.0,1915.0,,
+Sanitation Code Violation,60640.0,4756.0,,
+Sanitation Code Violation,60641.0,1596.0,,
+Sanitation Code Violation,60642.0,571.0,,
+Sanitation Code Violation,60643.0,1194.0,,
+Sanitation Code Violation,60644.0,3199.0,,
+Sanitation Code Violation,60645.0,1547.0,,
+Sanitation Code Violation,60646.0,714.0,,
+Sanitation Code Violation,60647.0,2715.0,,
+Sanitation Code Violation,60649.0,4528.0,,
+Sanitation Code Violation,60651.0,2904.0,,
+Sanitation Code Violation,60652.0,604.0,,
+Sanitation Code Violation,60653.0,3187.0,,
+Sanitation Code Violation,60655.0,334.0,,
+Sanitation Code Violation,60656.0,590.0,,
+Sanitation Code Violation,60657.0,2304.0,,
+Sanitation Code Violation,60659.0,936.0,,
+Sanitation Code Violation,60660.0,2142.0,,
+Sanitation Code Violation,60661.0,523.0,,
+Sanitation Code Violation,60707.0,1023.0,,
+Vacant/Abandoned Building,60607.0,,1335.0,1335.0
+Vacant/Abandoned Building,60608.0,3163.0,3163.0,3163.0
+Vacant/Abandoned Building,60609.0,2607.0,2607.0,2607.0
+Vacant/Abandoned Building,60612.0,2911.0,2911.0,2911.0
+Vacant/Abandoned Building,60615.0,,3409.0,
+Vacant/Abandoned Building,60616.0,3328.0,,
+Vacant/Abandoned Building,60617.0,3655.0,3655.0,3655.0
+Vacant/Abandoned Building,60618.0,,1842.0,1842.0
+Vacant/Abandoned Building,60619.0,4521.0,4521.0,4521.0
+Vacant/Abandoned Building,60620.0,3801.0,3801.0,3801.0
+Vacant/Abandoned Building,60621.0,2915.0,2915.0,2915.0
+Vacant/Abandoned Building,60622.0,1547.0,1547.0,1547.0
+Vacant/Abandoned Building,60623.0,3683.0,3683.0,3683.0
+Vacant/Abandoned Building,60624.0,3142.0,3142.0,3142.0
+Vacant/Abandoned Building,60625.0,,2278.0,2278.0
+Vacant/Abandoned Building,60626.0,,2965.0,
+Vacant/Abandoned Building,60628.0,3352.0,3352.0,3352.0
+Vacant/Abandoned Building,60629.0,2848.0,2848.0,2848.0
+Vacant/Abandoned Building,60630.0,,1123.0,
+Vacant/Abandoned Building,60631.0,661.0,,
+Vacant/Abandoned Building,60632.0,1710.0,1710.0,1710.0
+Vacant/Abandoned Building,60633.0,501.0,501.0,501.0
+Vacant/Abandoned Building,60634.0,,1522.0,1522.0
+Vacant/Abandoned Building,60636.0,1927.0,1927.0,1927.0
+Vacant/Abandoned Building,60637.0,4364.0,4364.0,4364.0
+Vacant/Abandoned Building,60638.0,718.0,718.0,718.0
+Vacant/Abandoned Building,60639.0,1915.0,1915.0,1915.0
+Vacant/Abandoned Building,60640.0,,4756.0,
+Vacant/Abandoned Building,60641.0,1596.0,1596.0,1596.0
+Vacant/Abandoned Building,60642.0,571.0,,
+Vacant/Abandoned Building,60643.0,1194.0,1194.0,1194.0
+Vacant/Abandoned Building,60644.0,3199.0,3199.0,3199.0
+Vacant/Abandoned Building,60645.0,,,1547.0
+Vacant/Abandoned Building,60646.0,,714.0,714.0
+Vacant/Abandoned Building,60647.0,2715.0,2715.0,2715.0
+Vacant/Abandoned Building,60649.0,4528.0,4528.0,4528.0
+Vacant/Abandoned Building,60651.0,2904.0,2904.0,2904.0
+Vacant/Abandoned Building,60652.0,604.0,604.0,
+Vacant/Abandoned Building,60653.0,3187.0,3187.0,3187.0
+Vacant/Abandoned Building,60655.0,334.0,,334.0
+Vacant/Abandoned Building,60656.0,,590.0,
+Vacant/Abandoned Building,60657.0,,2304.0,
+Vacant/Abandoned Building,60660.0,,2142.0,
+Vacant/Abandoned Building,60707.0,,1023.0,
+Vacant/Abandoned Building,60827.0,2090.0,2090.0,

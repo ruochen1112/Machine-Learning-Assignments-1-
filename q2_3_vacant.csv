@@ -1,0 +1,157 @@
+,zip_code,creation_month,vacant_counts,type_of_service_request,sanitation_counts,employed,low_income,race,never_married
+145,60640,1,0,Sanitation Code Violation,6,37723,4756,13055,29220
+51,60640,2,1,Vacant/Abandoned Building,0,37723,4756,13055,29220
+2,60649,1,11,Vacant/Abandoned Building,0,16863,4528,42282,20658
+124,60649,1,0,Sanitation Code Violation,22,16863,4528,42282,20658
+39,60649,2,9,Vacant/Abandoned Building,0,16863,4528,42282,20658
+60,60649,3,9,Vacant/Abandoned Building,0,16863,4528,42282,20658
+3,60619,1,29,Vacant/Abandoned Building,0,22896,4521,61455,26908
+144,60619,1,0,Sanitation Code Violation,21,22896,4521,61455,26908
+36,60619,2,34,Vacant/Abandoned Building,0,22896,4521,61455,26908
+68,60619,3,15,Vacant/Abandoned Building,0,22896,4521,61455,26908
+0,60637,1,11,Vacant/Abandoned Building,0,16213,4364,39096,23319
+134,60637,1,0,Sanitation Code Violation,23,16213,4364,39096,23319
+18,60637,2,18,Vacant/Abandoned Building,0,16213,4364,39096,23319
+66,60637,3,18,Vacant/Abandoned Building,0,16213,4364,39096,23319
+9,60620,1,13,Vacant/Abandoned Building,0,23828,3801,67353,30080
+137,60620,1,0,Sanitation Code Violation,33,23828,3801,67353,30080
+25,60620,2,38,Vacant/Abandoned Building,0,23828,3801,67353,30080
+70,60620,3,27,Vacant/Abandoned Building,0,23828,3801,67353,30080
+95,60623,1,4,Vacant/Abandoned Building,0,30758,3683,28593,35580
+141,60623,1,0,Sanitation Code Violation,31,30758,3683,28593,35580
+37,60623,2,5,Vacant/Abandoned Building,0,30758,3683,28593,35580
+65,60623,3,10,Vacant/Abandoned Building,0,30758,3683,28593,35580
+8,60617,1,23,Vacant/Abandoned Building,0,30074,3655,46173,29244
+128,60617,1,0,Sanitation Code Violation,24,30074,3655,46173,29244
+22,60617,2,33,Vacant/Abandoned Building,0,30074,3655,46173,29244
+62,60617,3,24,Vacant/Abandoned Building,0,30074,3655,46173,29244
+135,60615,1,0,Sanitation Code Violation,7,18537,3409,24068,18664
+30,60615,2,3,Vacant/Abandoned Building,0,18537,3409,24068,18664
+4,60628,1,26,Vacant/Abandoned Building,0,22277,3352,63916,27634
+126,60628,1,0,Sanitation Code Violation,23,22277,3352,63916,27634
+13,60628,2,41,Vacant/Abandoned Building,0,22277,3352,63916,27634
+63,60628,3,54,Vacant/Abandoned Building,0,22277,3352,63916,27634
+99,60616,1,1,Vacant/Abandoned Building,0,25617,3328,13125,20777
+136,60616,1,0,Sanitation Code Violation,11,25617,3328,13125,20777
+85,60644,1,4,Vacant/Abandoned Building,0,15329,3199,45810,23440
+143,60644,1,0,Sanitation Code Violation,13,15329,3199,45810,23440
+35,60644,2,9,Vacant/Abandoned Building,0,15329,3199,45810,23440
+58,60644,3,5,Vacant/Abandoned Building,0,15329,3199,45810,23440
+97,60653,1,2,Vacant/Abandoned Building,0,11258,3187,27900,13051
+103,60653,1,0,Sanitation Code Violation,16,11258,3187,27900,13051
+26,60653,2,4,Vacant/Abandoned Building,0,11258,3187,27900,13051
+74,60653,3,6,Vacant/Abandoned Building,0,11258,3187,27900,13051
+11,60608,1,3,Vacant/Abandoned Building,0,32914,3163,13080,34850
+115,60608,1,0,Sanitation Code Violation,23,32914,3163,13080,34850
+41,60608,2,1,Vacant/Abandoned Building,0,32914,3163,13080,34850
+71,60608,3,4,Vacant/Abandoned Building,0,32914,3163,13080,34850
+94,60624,1,6,Vacant/Abandoned Building,0,10023,3142,36007,18594
+104,60624,1,0,Sanitation Code Violation,20,10023,3142,36007,18594
+23,60624,2,11,Vacant/Abandoned Building,0,10023,3142,36007,18594
+56,60624,3,25,Vacant/Abandoned Building,0,10023,3142,36007,18594
+111,60610,1,0,Sanitation Code Violation,10,24594,2978,6277,19092
+106,60626,1,0,Sanitation Code Violation,16,26050,2965,11343,22310
+14,60626,2,1,Vacant/Abandoned Building,0,26050,2965,11343,22310
+90,60621,1,17,Vacant/Abandoned Building,0,7912,2915,30355,15256
+129,60621,1,0,Sanitation Code Violation,35,7912,2915,30355,15256
+15,60621,2,26,Vacant/Abandoned Building,0,7912,2915,30355,15256
+57,60621,3,30,Vacant/Abandoned Building,0,7912,2915,30355,15256
+88,60612,1,7,Vacant/Abandoned Building,0,14296,2911,23361,18241
+114,60612,1,0,Sanitation Code Violation,26,14296,2911,23361,18241
+19,60612,2,3,Vacant/Abandoned Building,0,14296,2911,23361,18241
+73,60612,3,12,Vacant/Abandoned Building,0,14296,2911,23361,18241
+5,60651,1,14,Vacant/Abandoned Building,0,21961,2904,37540,25886
+125,60651,1,0,Sanitation Code Violation,38,21961,2904,37540,25886
+33,60651,2,16,Vacant/Abandoned Building,0,21961,2904,37540,25886
+54,60651,3,19,Vacant/Abandoned Building,0,21961,2904,37540,25886
+87,60629,1,5,Vacant/Abandoned Building,0,45182,2848,23961,40465
+109,60629,1,0,Sanitation Code Violation,27,45182,2848,23961,40465
+38,60629,2,8,Vacant/Abandoned Building,0,45182,2848,23961,40465
+55,60629,3,8,Vacant/Abandoned Building,0,45182,2848,23961,40465
+86,60647,1,1,Vacant/Abandoned Building,0,49221,2715,5721,39376
+121,60647,1,0,Sanitation Code Violation,52,49221,2715,5721,39376
+43,60647,2,3,Vacant/Abandoned Building,0,49221,2715,5721,39376
+75,60647,3,3,Vacant/Abandoned Building,0,49221,2715,5721,39376
+92,60609,1,14,Vacant/Abandoned Building,0,23433,2607,15310,22680
+131,60609,1,0,Sanitation Code Violation,14,23433,2607,15310,22680
+20,60609,2,20,Vacant/Abandoned Building,0,23433,2607,15310,22680
+64,60609,3,22,Vacant/Abandoned Building,0,23433,2607,15310,22680
+105,60614,1,0,Sanitation Code Violation,59,45516,2478,3086,34824
+113,60657,1,0,Sanitation Code Violation,24,49462,2304,1879,36893
+24,60657,2,3,Vacant/Abandoned Building,0,49462,2304,1879,36893
+130,60625,1,0,Sanitation Code Violation,24,43643,2278,3324,28026
+49,60625,2,1,Vacant/Abandoned Building,0,43643,2278,3324,28026
+102,60625,3,1,Vacant/Abandoned Building,0,43643,2278,3324,28026
+132,60660,1,0,Sanitation Code Violation,6,22877,2142,6134,19069
+53,60660,2,1,Vacant/Abandoned Building,0,22877,2142,6134,19069
+45,60827,1,3,Vacant/Abandoned Building,0,9571,2090,26213,12424
+29,60827,2,2,Vacant/Abandoned Building,0,9571,2090,26213,12424
+10,60636,1,16,Vacant/Abandoned Building,0,10498,1927,34572,17090
+127,60636,1,0,Sanitation Code Violation,23,10498,1927,34572,17090
+32,60636,2,45,Vacant/Abandoned Building,0,10498,1927,34572,17090
+67,60636,3,30,Vacant/Abandoned Building,0,10498,1927,34572,17090
+91,60639,1,3,Vacant/Abandoned Building,0,39513,1915,12896,31649
+133,60639,1,0,Sanitation Code Violation,30,39513,1915,12896,31649
+46,60639,2,4,Vacant/Abandoned Building,0,39513,1915,12896,31649
+77,60639,3,5,Vacant/Abandoned Building,0,39513,1915,12896,31649
+118,60618,1,0,Sanitation Code Violation,63,52335,1842,2169,34212
+48,60618,2,2,Vacant/Abandoned Building,0,52335,1842,2169,34212
+84,60618,3,2,Vacant/Abandoned Building,0,52335,1842,2169,34212
+140,60613,1,0,Sanitation Code Violation,6,34633,1716,3056,25924
+12,60632,1,4,Vacant/Abandoned Building,0,37368,1710,1792,29749
+122,60632,1,0,Sanitation Code Violation,47,37368,1710,1792,29749
+34,60632,2,3,Vacant/Abandoned Building,0,37368,1710,1792,29749
+72,60632,3,2,Vacant/Abandoned Building,0,37368,1710,1792,29749
+101,60641,1,1,Vacant/Abandoned Building,0,37639,1596,1624,23571
+107,60641,1,0,Sanitation Code Violation,39,37639,1596,1624,23571
+27,60641,2,2,Vacant/Abandoned Building,0,37639,1596,1624,23571
+78,60641,3,1,Vacant/Abandoned Building,0,37639,1596,1624,23571
+96,60622,1,1,Vacant/Abandoned Building,0,35246,1547,4621,26298
+112,60622,1,0,Sanitation Code Violation,34,35246,1547,4621,26298
+123,60645,1,0,Sanitation Code Violation,13,19519,1547,8073,12510
+40,60622,2,2,Vacant/Abandoned Building,0,35246,1547,4621,26298
+79,60622,3,4,Vacant/Abandoned Building,0,35246,1547,4621,26298
+69,60645,3,2,Vacant/Abandoned Building,0,19519,1547,8073,12510
+116,60634,1,0,Sanitation Code Violation,9,36703,1522,1351,21075
+44,60634,2,5,Vacant/Abandoned Building,0,36703,1522,1351,21075
+83,60634,3,2,Vacant/Abandoned Building,0,36703,1522,1351,21075
+139,60607,1,0,Sanitation Code Violation,17,17066,1335,3943,15064
+50,60607,2,1,Vacant/Abandoned Building,0,17066,1335,3943,15064
+81,60607,3,2,Vacant/Abandoned Building,0,17066,1335,3943,15064
+108,60605,1,0,Sanitation Code Violation,3,17664,1213,5257,12173
+7,60643,1,4,Vacant/Abandoned Building,0,21047,1194,37513,17023
+120,60643,1,0,Sanitation Code Violation,29,21047,1194,37513,17023
+17,60643,2,21,Vacant/Abandoned Building,0,21047,1194,37513,17023
+61,60643,3,19,Vacant/Abandoned Building,0,21047,1194,37513,17023
+150,60611,1,0,Sanitation Code Violation,5,18868,1174,1270,12898
+110,60630,1,0,Sanitation Code Violation,10,28499,1123,779,16017
+16,60630,2,3,Vacant/Abandoned Building,0,28499,1123,779,16017
+152,60707,1,0,Sanitation Code Violation,3,20037,1023,3724,11966
+52,60707,2,1,Vacant/Abandoned Building,0,20037,1023,3724,11966
+138,60659,1,0,Sanitation Code Violation,8,19217,936,2652,11667
+100,60638,1,1,Vacant/Abandoned Building,0,27286,718,1640,16176
+117,60638,1,0,Sanitation Code Violation,16,27286,718,1640,16176
+47,60638,2,1,Vacant/Abandoned Building,0,27286,718,1640,16176
+76,60638,3,4,Vacant/Abandoned Building,0,27286,718,1640,16176
+142,60646,1,0,Sanitation Code Violation,3,12809,714,213,5437
+28,60646,2,1,Vacant/Abandoned Building,0,12809,714,213,5437
+59,60646,3,1,Vacant/Abandoned Building,0,12809,714,213,5437
+6,60631,1,1,Vacant/Abandoned Building,0,14066,661,419,6841
+119,60631,1,0,Sanitation Code Violation,3,14066,661,419,6841
+98,60652,1,2,Vacant/Abandoned Building,0,19053,604,20076,13564
+146,60652,1,0,Sanitation Code Violation,11,19053,604,20076,13564
+42,60652,2,3,Vacant/Abandoned Building,0,19053,604,20076,13564
+149,60656,1,0,Sanitation Code Violation,2,14252,590,209,6130
+21,60656,2,1,Vacant/Abandoned Building,0,14252,590,209,6130
+93,60642,1,1,Vacant/Abandoned Building,0,13705,571,1648,10363
+147,60642,1,0,Sanitation Code Violation,10,13705,571,1648,10363
+153,60661,1,0,Sanitation Code Violation,2,6670,523,575,4746
+89,60633,1,2,Vacant/Abandoned Building,0,5366,501,3114,4533
+151,60633,1,0,Sanitation Code Violation,2,5366,501,3114,4533
+31,60633,2,3,Vacant/Abandoned Building,0,5366,501,3114,4533
+80,60633,3,3,Vacant/Abandoned Building,0,5366,501,3114,4533
+1,60655,1,3,Vacant/Abandoned Building,0,13769,334,1967,7670
+154,60655,1,0,Sanitation Code Violation,3,13769,334,1967,7670
+82,60655,3,2,Vacant/Abandoned Building,0,13769,334,1967,7670
+148,60606,1,0,Sanitation Code Violation,2,2399,172,74,1514
+155,60602,1,0,Sanitation Code Violation,2,909,26,30,636
